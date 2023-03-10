@@ -1,0 +1,2 @@
+#!/bin/bashsudo 
+chmod --reference= hello olleh
