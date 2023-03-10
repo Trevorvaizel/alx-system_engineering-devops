@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R uqo+x ./
+sudo chmod -R uqo+x ./
