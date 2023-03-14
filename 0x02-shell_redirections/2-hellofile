@@ -1,2 +1,2 @@
 #/!bin/bash
-sudo cat /etc/passwd |tee 
+cat /etc/passwd 
