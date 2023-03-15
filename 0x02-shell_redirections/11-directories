@@ -1,2 +1,2 @@
 #!/bin/bash 
-find . -type dR | wc -l
+find . -type d | wc -l
